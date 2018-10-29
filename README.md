@@ -1,6 +1,6 @@
 # OlaFresco-Project
 
-Welcome on the GitHub of the OlaFresco projet. *We*'re developping a website for the company OlaFreco.
+Welcome on the GitHub of the OlaFresco projet. *We*'re developping a website for the company OlaFresco.
 
 ### We
 
