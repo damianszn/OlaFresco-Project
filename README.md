@@ -2,8 +2,8 @@
 
 ![alt text](https://github.com/damianszn/OlaFresco-Project/blob/master/LogoAloha.png)
 
-Welcome on the GitHub of the OlaFresco projet. _We_'re developping a website for the company OlaFresco.
-We're working for the startup _Aloha_ Digital Factory.
+Welcome on the GitHub of the OlaFresco projet. **We**'re developping a website for the company OlaFresco.
+We're working for the startup **Aloha** Digital Factory.
 
 ### We
 
@@ -32,7 +32,7 @@ Start : 29-10-2018.
 Last update : 31-10-2018.
 We're based in Brussels.
 
-_Githubs_ : 
+**Githubs** : 
 
 Nathan Gemis https://github.com/nathangemis
 
