@@ -2,6 +2,7 @@
 
 Welcome on the GitHub of the OlaFresco projet. *We*'re developping a website for the company OlaFresco.
 We're working for the startup Aloha Digital Factory.
+
 ![alt text](https://github.com/damianszn/OlaFresco-Project/blob/master/LogoAloha.png)
 
 ### We
