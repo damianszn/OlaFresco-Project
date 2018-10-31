@@ -13,7 +13,7 @@ It will be a food ordering website. Our development goal is to make it interesti
 
 ### Our concept
 
-While doing our brainstorming we found a nice idea for the website. The meals will be filtered by default: by countries they are from and by the users rating. And if that doesn't suit our client needs he will have advanced filters for allergies, meat/vegan options and so on.
+While doing our brainstorming we found a nice idea for the website. The meals will be filtered by default: by countries they are from and by the users rating. And if that doesn't suit the users needs he will have advanced filters for allergies, meat/vegan options and so on.
 
 ### Look 
 
