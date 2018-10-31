@@ -21,7 +21,7 @@ While doing our brainstorming we found a nice idea for the website. The meals wi
 
 ### Status
 
-In progress.
+Mockup done.
 
 ### Infos
 
