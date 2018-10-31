@@ -1,13 +1,12 @@
 # OlaFresco-Project
 
 Welcome on the GitHub of the OlaFresco projet. *We*'re developping a website for the company OlaFresco.
+We're working for the startup Aloha Digital Factory.
+![alt text](https://github.com/damianszn/OlaFresco-Project/blob/master/LogoAloha.png)
 
 ### We
 
-We're four Junior Webdevelopers working for the startup Aloha Digital Factory. Nathan Gemis is the designer, Jeremy Vantighem is the manager and the problem solver, Michel Deraemaeker is the content (and tables) manager and Damian Szacun is the back-end developer.
-
-![alt text](https://github.com/damianszn/OlaFresco-Project/blob/master/LogoAloha.png)
-
+We're four Junior Webdevelopers. Nathan Gemis is the designer, Jeremy Vantighem is the manager and the problem solver, Michel Deraemaeker is the content (and tables) manager and Damian Szacun is the back-end developer.
 
 ### The project
 
