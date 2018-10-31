@@ -8,8 +8,9 @@ We're four Junior Webdevelopers working for the startup Aloha Digital Factory. N
 
 ### Status
 
-The project just started.
+In progress.
 
 ### Infos
 
-29-10-2018
+Start : 29-10-2018.
+Last update : 31-10-2018.
