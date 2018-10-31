@@ -31,3 +31,13 @@ UML and Wireframe are done, the Mockup aswell.
 Start : 29-10-2018.
 Last update : 31-10-2018.
 We're based in Brussels.
+
+*Githubs* : 
+
+Nathan Gemis https://github.com/nathangemis
+
+Jeremy Vantighem https://github.com/jevanty
+
+Michel Deraemaeker https://github.com/MDE86
+
+Damian Szacun https://github.com/damianszn
